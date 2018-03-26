@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StefHost</string>
+
+    <string name="spotashot">Server Onderhoud</string>
+
+    <array name="schermen">
+        <item>Maak een keuze</item>
+        <item>Halloween</item>
+        <item>Kerst</item>
+        <item>Origineel</item>
+        <item>Winter</item>
+    </array>
+</resources>
